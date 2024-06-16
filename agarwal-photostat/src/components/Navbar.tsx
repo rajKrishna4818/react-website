@@ -1,4 +1,5 @@
 
+import Button from './Button'
 import './Navbar.css'
 
 const Navbar = () => {
@@ -14,6 +15,10 @@ const Navbar = () => {
                 <li><a href="#services">Services</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
+            <div className="navbar-btn">
+                <Button btnText='Vist Us' />
+                <Button btnText='login' />
+            </div>
         </nav>
     </>
   )
