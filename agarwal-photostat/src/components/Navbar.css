@@ -3,7 +3,7 @@
     justify-content: space-between;
     align-items: center;
     background-color: #333;
-    padding: 1rem;
+    padding: 0.5rem;
 }
 .navbar-logo{
     font-size: 1.5rem;
@@ -26,3 +26,6 @@
     border-radius: 4px;
     text-transform: uppercase;
 }
+
+
+
